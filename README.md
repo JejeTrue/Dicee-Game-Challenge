@@ -1,4 +1,4 @@
-I will implement the DOM (Document Object Model) in this Challenge. ⚠️ **I am trying to work on it by myself without looking at the completed project.
+I will implement the DOM (Document Object Model) in this Challenge. I am trying to work on it by myself without looking at the completed project.
 
 How it works: When the webpage is refreshed, the two dice will change. The title will also update to match the result of the two dice.
 
